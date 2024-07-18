@@ -1,7 +1,7 @@
 my_dict={"Real Madrid": 15, "barcelona": 5}
 print(my_dict)
 print(my_dict["Real Madrid"])
-print(my_dict.get("Manchester City")
+print(my_dict.get("Manchester City"))
 my_dict.update({"Bayern Munich": 6, "Milan": 7})
 x=my_dict.pop("barcelona")
 print(x)
